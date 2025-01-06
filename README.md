@@ -70,10 +70,6 @@ Dataset Source
 
 IMDB Dataset of 50K Movie Reviews on Kaggle
 
-Contributors
-
-[Your Name]
-
 License
 
 This project is licensed under the MIT License.
