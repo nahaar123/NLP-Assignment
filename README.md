@@ -58,7 +58,7 @@ How to Use
 
 Clone the repository.
 
-git clone <repository_link>
+git clone <gh repo clone nahaar123/NLP-Assignment>
 
 Open the .ipynb files in Google Colab or Jupyter Notebook.
 
