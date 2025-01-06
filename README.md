@@ -12,7 +12,7 @@ The analysis includes preprocessing, model training, evaluation, and insightful 
 
 Project Structure
 
-1. LSTM.ipynb
+1. LSTM.ipynb  (https://colab.research.google.com/drive/1JEVLw4hxbAon1upO-A3GzhY0NP9ZTQ2D)
 
 Objective: Sentiment analysis using LSTM (Long Short-Term Memory) networks.
 
@@ -24,7 +24,7 @@ LSTM model training and evaluation.
 
 Accuracy, Precision, Recall, and F1-score metrics.
 
-2. topic_modeling.ipynb (Open in Google Colab)
+2. topic_modeling.ipynb (Open in Google Colab "https://colab.research.google.com/drive/1iULY9Kxf-HzYIY6JibVtS79DSvCTvRGc#scrollTo=PiGLsBEZQThx)
 
 Objective: Topic discovery and analysis.
 
